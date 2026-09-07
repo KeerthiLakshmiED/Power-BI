@@ -105,10 +105,4 @@ The final Power BI dashboard is shown below:
 - Add more interactive filters.
 - Add advanced KPIs and DAX measures.
 
-## 📄 Project Type
 
-**Academic / Data Analytics Project**
-
-## 📜 License
-
-This project is created for educational and learning purposes.
